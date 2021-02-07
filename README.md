@@ -1,1 +1,1 @@
-# Data-Science-BusinessAnalytics
+# DataScienceBusinessAnalytics
